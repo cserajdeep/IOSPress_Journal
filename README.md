@@ -1,6 +1,6 @@
 ## About
 
-Author support service provides LaTeX style files and `.tex` file templates designed for *IOS Press* journal articles.
+Author support service provides LaTeX style files and `.tex` file templates designed for *IOS Press* journal articles. For more details visit: https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/
 
 ## Contents
 
